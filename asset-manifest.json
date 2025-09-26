@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/webdev_tanfolio/static/css/main.ab9dc643.css",
+    "main.js": "/webdev_tanfolio/static/js/main.c591cc0f.js",
+    "static/js/453.5caac6e5.chunk.js": "/webdev_tanfolio/static/js/453.5caac6e5.chunk.js",
+    "static/media/fa-solid-900.woff2": "/webdev_tanfolio/static/media/fa-solid-900.0ae4e6254fc19607c79e.woff2",
+    "static/media/fa-brands-400.woff2": "/webdev_tanfolio/static/media/fa-brands-400.e7461d69dbbff1310a5c.woff2",
+    "static/media/fa-regular-400.woff2": "/webdev_tanfolio/static/media/fa-regular-400.1f38a564cd9eae27ebc3.woff2",
+    "static/media/ResourceBoyFont.ttf": "/webdev_tanfolio/static/media/ResourceBoyFont.d39425d439f768ba711d.ttf",
+    "static/media/fa-v4compatibility.woff2": "/webdev_tanfolio/static/media/fa-v4compatibility.661bd6b7245d5205d3e1.woff2",
+    "static/media/react.svg": "/webdev_tanfolio/static/media/react.949cfce8dc97d6110022f0d7724042d2.svg",
+    "static/media/git.svg": "/webdev_tanfolio/static/media/git.207c27f2aaf20d605ef4e708aaece6b1.svg",
+    "static/media/python.svg": "/webdev_tanfolio/static/media/python.3af0efb0da24f5343240aa06413f01d9.svg",
+    "static/media/js.svg": "/webdev_tanfolio/static/media/js.34c633c7e5734984a5980ec2f04d1b28.svg",
+    "index.html": "/webdev_tanfolio/index.html",
+    "static/media/sql-database.svg": "/webdev_tanfolio/static/media/sql-database.e8498ee06b81ed3190122d1b36985284.svg",
+    "static/media/npm.svg": "/webdev_tanfolio/static/media/npm.a68e496359dfe42e69a1a306e33c3d02.svg",
+    "static/media/css3.svg": "/webdev_tanfolio/static/media/css3.52ef958b5ebe6f3c4b6ec91df2e8dcfc.svg",
+    "static/media/html5.svg": "/webdev_tanfolio/static/media/html5.0bd1efb7efe16e62d44b837f19d4f7dd.svg",
+    "main.ab9dc643.css.map": "/webdev_tanfolio/static/css/main.ab9dc643.css.map",
+    "main.c591cc0f.js.map": "/webdev_tanfolio/static/js/main.c591cc0f.js.map",
+    "453.5caac6e5.chunk.js.map": "/webdev_tanfolio/static/js/453.5caac6e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab9dc643.css",
+    "static/js/main.c591cc0f.js"
+  ]
+}
