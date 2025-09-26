@@ -547,3 +547,96 @@ body{
   position: relative;
   z-index: 2;
 }
+
+/* education section */
+/* Section styling */
+.education-section {
+  padding: 80px 20px;
+  background: #f9f9fb;
+  text-align: center;
+  font-family: 'ResourceBoyFont', sans-serif;
+}
+
+/* Heading */
+.education-header h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+  margin-bottom: 10px;
+}
+
+.education-header span {
+  color: #7a3df0;
+}
+
+.education-header p {
+  color: #555;
+  max-width: 650px;
+  margin: 0 auto 40px;
+  font-size: 1rem;
+}
+
+/* Cards container */
+.education-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 25px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* Individual card */
+.education-card {
+  background: #fff;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.education-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.12);
+}
+
+.education-icon {
+  font-size: 2rem;
+  color: #7a3df0;
+  margin-bottom: 12px;
+}
+
+/* Text styles */
+.education-card h3 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 8px 0;
+}
+
+.education-card .institute {
+  color: #7a3df0;
+  font-weight: 500;
+}
+
+.education-card .duration {
+  color: #666;
+  margin: 5px 0;
+}
+
+.education-card .description {
+  font-size: 0.95rem;
+  color: #555;
+  margin-top: 8px;
+}
+
+.education-icon {
+  width: 70px;
+  height: 70px;
+  background: #f2eaff; /* Light purple background */
+  color: #7a3df0; /* Purple icon */
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  margin: 0 auto 15px;
+}
