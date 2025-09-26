@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/webdev_tanfolio/static/css/main.ab9dc643.css",
-    "main.js": "/webdev_tanfolio/static/js/main.c591cc0f.js",
+    "main.css": "/webdev_tanfolio/static/css/main.0b7ec70e.css",
+    "main.js": "/webdev_tanfolio/static/js/main.d0f85254.js",
     "static/js/453.5caac6e5.chunk.js": "/webdev_tanfolio/static/js/453.5caac6e5.chunk.js",
     "static/media/fa-solid-900.woff2": "/webdev_tanfolio/static/media/fa-solid-900.0ae4e6254fc19607c79e.woff2",
     "static/media/fa-brands-400.woff2": "/webdev_tanfolio/static/media/fa-brands-400.e7461d69dbbff1310a5c.woff2",
@@ -17,12 +17,12 @@
     "static/media/npm.svg": "/webdev_tanfolio/static/media/npm.a68e496359dfe42e69a1a306e33c3d02.svg",
     "static/media/css3.svg": "/webdev_tanfolio/static/media/css3.52ef958b5ebe6f3c4b6ec91df2e8dcfc.svg",
     "static/media/html5.svg": "/webdev_tanfolio/static/media/html5.0bd1efb7efe16e62d44b837f19d4f7dd.svg",
-    "main.ab9dc643.css.map": "/webdev_tanfolio/static/css/main.ab9dc643.css.map",
-    "main.c591cc0f.js.map": "/webdev_tanfolio/static/js/main.c591cc0f.js.map",
+    "main.0b7ec70e.css.map": "/webdev_tanfolio/static/css/main.0b7ec70e.css.map",
+    "main.d0f85254.js.map": "/webdev_tanfolio/static/js/main.d0f85254.js.map",
     "453.5caac6e5.chunk.js.map": "/webdev_tanfolio/static/js/453.5caac6e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab9dc643.css",
-    "static/js/main.c591cc0f.js"
+    "static/css/main.0b7ec70e.css",
+    "static/js/main.d0f85254.js"
   ]
 }
