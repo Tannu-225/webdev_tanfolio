@@ -15,11 +15,12 @@ export default function Hero() {
             </h1>
             <h4 className="handle">( webdev_creator )</h4>
             <p className="hero-desc">
-              I am passionate about building responsive, user-friendly, and
+              {/* I am passionate about building responsive, user-friendly, and
               visually appealing web applications that bring ideas to life. My
               focus is on creating clean, efficient code and delivering modern
               solutions that enhance user experience while maintaining
-              performance and accessibility.
+              performance and accessibility. */}
+              Aspiring web developer with a strong foundation in HTML, CSS, JavaScript, and React.js. I am passionate about building user-friendly web applications and eager to apply my skills in a dynamic environment. Seeking an entry-level role in web development to contribute innovative solutions.
             </p>
 
             {/* Social Icons */}
@@ -43,10 +44,10 @@ export default function Hero() {
             {/* New Buttons */}
             <div className="hero-buttons animate__animated animate__fadeInUp mt-4">
               <a href="#contact" className="btn btn-purple">
-                <i className="fas fa-envelope"></i> Get In Touch
+                <i className="fas fa-envelope"></i> Contact Me
               </a>
               <a href="#projects" className="btn btn-outline-purple">
-                Browse Projects <i className="fas fa-arrow-down"></i>
+                Download My Resume <i className="fas fa-arrow-down"></i>
               </a>
             </div>
           </div>
