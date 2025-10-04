@@ -1,7 +1,7 @@
 // src/components/Hero.jsx
 import React from "react";
-import Lottie from "lottie-react";
-import Freelance from "../assets/lottie/Freelance woman working.json"; // path to your JSON
+// import Lottie from "lottie-react";
+// import Freelance from "../assets/lottie/Freelance woman working.json"; // path to your JSON
 
 export default function Hero() {
   return (
@@ -53,14 +53,14 @@ export default function Hero() {
           </div>
 
           {/* Right: illustration */}
-          <div className="col-md-6 text-center animate__animated animate__fadeInRight">
+          {/* <div className="col-md-6 text-center animate__animated animate__fadeInRight"> */}
             {/* Lottie animation */}
-        <Lottie 
+        {/* <Lottie 
           animationData={Freelance} 
           loop={true} 
           className="hero-lottie" 
-        />
-          </div>
+        /> */}
+          {/* </div> */}
         </div>
       </div>
     </section>
